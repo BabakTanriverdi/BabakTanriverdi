@@ -35,7 +35,7 @@ I currently hold the following certifications:
 
 ### 🛠 Tech Stack
 
-#### ☁ DevOps & Tools
+#### :cloud: DevOps & Tools
 ![Docker](https://skillicons.dev/icons?i=docker)
 ![Kubernetes](https://skillicons.dev/icons?i=kubernetes)
 ![Terraform](https://skillicons.dev/icons?i=terraform)
@@ -50,7 +50,7 @@ I currently hold the following certifications:
 
 ### 💡 Currently Exploring (AWS Cloud + DevOps)
 
-#### ☁ AWS Cloud (Hands-On)  
+#### :cloud: AWS Cloud (Hands-On)  
 - **Compute & Scaling:** EC2, Launch Templates, Auto Scaling Groups  
 - **Load Balancing:** ALB, NLB, Target Groups  
 - **Storage & CDN:** S3, CloudFront, EFS  
