@@ -24,6 +24,7 @@ Currently enrolled in one of Germany’s leading AWS DevOps bootcamps, I am gain
 Starting February 2026, I will expand my expertise in DevOps practices, focusing on CI/CD pipelines, container orchestration, infrastructure automation, and cloud management using tools such as Docker, Kubernetes, Helm, Jenkins, GitLab CI/CD, Maven, Ansible, Terraform, Prometheus, and Grafana.
 
 I currently hold the following certifications:
+
 ✅ AWS Cloud Practitioner
 ✅ AWS Solutions Architect – Associate
 ✅ Microsoft Certified: Azure Fundamentals (AZ-900)
