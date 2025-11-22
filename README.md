@@ -26,9 +26,7 @@ Starting February 2026, I will expand my expertise in DevOps practices, focusing
 I currently hold the following certifications:
 
 ✅ AWS Cloud Practitioner
-
 ✅ AWS Solutions Architect – Associate
-
 ✅ Microsoft Certified: Azure Fundamentals (AZ-900)
 
 
