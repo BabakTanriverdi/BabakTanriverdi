@@ -9,7 +9,7 @@
 
 <p align="center">
   <img
-    src="https://readme-typing-svg.herokuapp.com?size=22&duration=4000&pause=1200&color=58A6FF&center=true&vCenter=true&width=800&lines=AWS Cloud+%7C+DevOps+Engineer+in+Training;Always+Learning+%7C+Open+for+Opportunities"
+    src="https://readme-typing-svg.herokuapp.com?size=22&duration=4000&pause=1200&color=58A6FF&center=true&vCenter=true&width=800&lines=AWS+Cloud+%7C+DevOps+Engineer+in+Training;Always+Learning+%7C+Open+for+Opportunities"
     alt="Typing SVG"
   />
 </p>
@@ -26,8 +26,11 @@ Starting February 2026, I will expand my expertise in DevOps practices, focusing
 I currently hold the following certifications:
 
 ✅ AWS Cloud Practitioner
+
 ✅ AWS Solutions Architect – Associate
+
 ✅ Microsoft Certified: Azure Fundamentals (AZ-900)
+
 
 💡 My goal is to become a proactive, solution-oriented DevOps Engineer, building efficient, scalable, and secure cloud infrastructures, driving automation and reliability, and contributing to modern DevOps culture.
 
