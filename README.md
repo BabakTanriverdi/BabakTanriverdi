@@ -2,7 +2,7 @@
 
 <p align="center">
   <img
-    src="https://readme-typing-svg.herokuapp.com?size=32&duration=4000&pause=1200&color=F75C7E&center=true&vCenter=true&width=800&lines=Hi+there,+I'm+Babak+👋"
+    src="https://readme-typing-svg.herokuapp.com?size=32&duration=4000&pause=1200&color=F75C7E&center=true&vCenter=true&width=800&lines=I'm+Babak+👋"
     alt="Typing SVG"
   />
 </p>
@@ -26,7 +26,9 @@ Starting February 2026, I will expand my expertise in DevOps practices, focusing
 I currently hold the following certifications:
 
 ✅ AWS Cloud Practitioner
+
 ✅ AWS Solutions Architect – Associate
+
 ✅ Microsoft Certified: Azure Fundamentals (AZ-900)
 
 
