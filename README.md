@@ -86,12 +86,13 @@ I currently hold the following certifications:
 
 ---
 
-### 📊 GitHub Stats
-![Babak's GitHub stats](https://github-readme-stats.vercel.app/api?username=BabakTanriverdi&show_icons=true&theme=radical&cache_seconds=1)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BabakTanriverdi&layout=compact&theme=radical&cache_seconds=1)
+## 📊 GitHub Stats
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=BabakTanriverdi&theme=radical)
+
+![Babak's GitHub stats](https://github-readme-stats.vercel.app/api?username=BabakTanriverdi&show_icons=true&theme=radical)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BabakTanriverdi&layout=compact&theme=radical)
 
 
 ---
