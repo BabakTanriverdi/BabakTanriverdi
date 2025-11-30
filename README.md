@@ -86,10 +86,98 @@ I currently hold the following certifications:
 
 ---
 
-## 📊 GitHub Stats
+### 📊 GitHub Stats
 
-![Babak's GitHub stats](https://github-readme-stats.vercel.app/api?username=BabakTanriverdi&show_icons=true&theme=radical)
+<!-- STREAK -->
+<p align="center">
+  <img 
+       src="https://streak-stats.demolab.com?user=BabakTanriverdi&theme=radical" 
+       height="210"
+       style="border-radius: 12px;
+              box-shadow:
+                0 0 6px rgba(255,255,255,0.6),
+                0 0 12px rgba(255,255,255,0.5),
+                0 0 18px rgba(0, 200, 255, 0.4);"
+  />
+</p>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BabakTanriverdi&layout=compact&theme=radical)
+<br/>
+
+<!-- ROW 1 — TOP LANGUAGES BY COMMIT & REPO -->
+<p align="center">
+
+  <span style="display: inline-block; margin-right: 10px;">
+    <img 
+         src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=BabakTanriverdi&theme=radical" 
+         height="200"
+         style="border-radius: 12px;
+                box-shadow:
+                  0 0 6px rgba(255,255,255,0.6),
+                  0 0 12px rgba(255,255,255,0.5),
+                  0 0 18px rgba(0, 200, 255, 0.4);"
+    />
+  </span>
+
+  <span style="display: inline-block;">
+    <img 
+         src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=BabakTanriverdi&theme=radical" 
+         height="200"
+         style="border-radius: 12px;
+                box-shadow:
+                  0 0 6px rgba(255,255,255,0.6),
+                  0 0 12px rgba(255,255,255,0.5),
+                  0 0 18px rgba(0, 200, 255, 0.4);"
+    />
+  </span>
+
+</p>
+
+<br/>
+
+<!-- ROW 2 — STATS & COMMITS -->
+<p align="center">
+
+  <span style="display: inline-block; margin-right: 10px;">
+    <img 
+         src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=BabakTanriverdi&theme=radical" 
+         height="200"
+         style="border-radius: 12px;
+                box-shadow:
+                  0 0 6px rgba(255,255,255,0.6),
+                  0 0 12px rgba(255,255,255,0.5),
+                  0 0 18px rgba(0, 200, 255, 0.4);"
+    />
+  </span>
+
+  <span style="display: inline-block;">
+    <img 
+         src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=BabakTanriverdi&theme=radical&utcOffset=+1" 
+         height="200"
+         style="border-radius: 12px;
+                box-shadow:
+                  0 0 6px rgba(255,255,255,0.6),
+                  0 0 12px rgba(255,255,255,0.5),
+                  0 0 18px rgba(0, 200, 255, 0.4);"
+    />
+  </span>
+
+</p>
+
+<br/>
+
+<!-- ACTIVITY GRAPH FULL WIDTH -->
+<p align="center">
+  <img 
+       src="https://github-readme-activity-graph.vercel.app/graph?username=BabakTanriverdi&theme=react-dark&hide_border=true&area=true" 
+       width="95%"
+       style="border-radius: 12px;
+              box-shadow:
+                0 0 6px rgba(255,255,255,0.6),
+                0 0 12px rgba(255,255,255,0.5),
+                0 0 18px rgba(0, 200, 255, 0.4);"
+  />
+</p>
+
 
 ---
+
