@@ -94,5 +94,10 @@ I currently hold the following certifications:
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BabakTanriverdi&layout=compact&theme=radical)
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=BabakTanriverdi&show_icons=true&theme=radical" height="180">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BabakTanriverdi&layout=compact&theme=radical" height="180">
+</p>
+
 
 ---
